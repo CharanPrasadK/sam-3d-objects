@@ -1,1 +1,6 @@
 __pycache__
+*.glb
+*.ply
+*.jpg
+*.png
+*.jpeg
